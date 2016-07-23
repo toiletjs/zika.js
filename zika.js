@@ -1,3 +1,3 @@
 'use strict';
-function Zika() {}
+Zika => {};
 Object.freeze(Zika.prototype);
