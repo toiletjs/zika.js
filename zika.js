@@ -1,3 +1,3 @@
 'use strict';
-const Zika => {};
+export const Zika = _=>_;
 Object.freeze(Zika.prototype);
